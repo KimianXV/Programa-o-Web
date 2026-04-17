@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <title>Título da Página</title>
+    </head>
+    <body>
+        <header>
+            <h1>Logotipo do site</h1>
+            <nav>
+                <ul>
+                    <li><a href="#home">Início</a></li>
+                    <li><a href="#sobre"></a></li>
+                    <li><a href="#contato"></a></li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <article>
+                <h2>Estrutura do HTML</h2>
+                <p>HTML semanticos principais: headers, nav, main, section, article, aside, footer</p>
+            </article>
+
+            <section>
+                <h3>Beneficios da semantica</h3>
+                    <p>SEO melhor - Search engine optimization, leitores de tela,</p>        
+            </section>
+        </main>
+        <aside>
+            <h4>
+                html organiza e css estiliza
+                css: Cascading style sheets
+
+            </h4>
+        </aside>
+        <footer>
+            <p>
+                sintaxe css
+                seletor de tag, classe, id, descendente
+            </p>
+        </footer>
+    </body>
+</html>
